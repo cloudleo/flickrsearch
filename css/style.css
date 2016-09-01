@@ -1,0 +1,36 @@
+body {
+	margin:20px;
+	background-color:#F5F5F5;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+#feed {
+	margin:0;
+	padding:0;
+}
+
+.date { 
+	color:#666;
+}
+
+.center{
+	background-color:#0099ff;
+	text-align: center;
+	height: 100px;
+	width: 95%;
+	margin: 0 auto;
+}
+li{
+	display: inline-block;
+	margin: 0 10px;
+}
+
+ img{
+	width: 250px;
+	height: 250px;
+    display: inline-block;
+}
+
